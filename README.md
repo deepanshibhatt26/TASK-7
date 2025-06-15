@@ -1,5 +1,5 @@
 # TASK-7
-#Pharma Sales Summary using SQLite and Python
+# Pharma Sales Summary using SQLite and Python
 
 ## Overview
 This project demonstrates how to build and query a simple SQLite database using Python to analyze pharmaceutical sales data. It includes SQL-based data summaries and basic data visualization using matplotlib.
